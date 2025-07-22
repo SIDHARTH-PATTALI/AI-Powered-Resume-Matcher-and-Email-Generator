@@ -10,7 +10,7 @@ This project is an AI-powered assistant that automates job applications. It take
 - 📧 Auto-generates a professional cold email using your real CV skills .
 - 🧾 Outputs selected CV link and email in Streamlit.
 
----
+--
 
 ## 💻 Technologies Used
 
