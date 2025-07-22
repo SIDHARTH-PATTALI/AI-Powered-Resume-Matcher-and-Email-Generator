@@ -21,7 +21,6 @@ This project is an AI-powered assistant that automates job applications. It take
 | **ChatGroq (LLaMA 3)** | Hosted LLM used to generate high-quality application emails             |
 | **Streamlit**          | Frontend interface to upload CVs, paste job URLs, and view results      |
 | **WebBaseLoader**      | Loads and parses job descriptions from web URLs                         |
-| **BeautifulSoup**      | HTML parser used by WebBaseLoader to clean webpage content              |
 | **Pandas**             | Reads and processes the CSV of your CVs                                 |
 ---
 
